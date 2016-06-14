@@ -1,0 +1,80 @@
+/* Main stylesheet for Invitify */
+
+body {
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+}
+/*
+ * Navbar
+ *
+ **/
+.navbar-default {
+    background-color: transparent;
+    border: none;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+/*
+ * Headings
+ *
+ **/
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.sub-heading {
+    font-size: 17px;
+    color: #777;
+}
+/*
+ * Images
+ *
+ **/
+img#fb {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+}
+#chrome-web-store-icon {
+    width: 19px;
+    height: 18px;
+    margin-top: -3px;
+
+}
+/*
+ * Rest
+ *
+ **/
+#main-container {
+    padding-bottom: 30px;
+}
+.btn-grp {
+    padding: 20px;
+    text-align: center;
+}
+.github-btn {
+    background: #444;
+    color: #fff;
+    border: 1px solid #333;
+}
+.github-btn > i {
+    color: #fff;
+}
+.github-btn:hover {
+    color: #fff;
+    border: 1px solid #333;
+    background: #555;
+}
+.chrome-btn {
+    background: #999;
+    color: #fff;
+    border: 1px solid #848484;
+    margin-right: 10px;
+}
+.chrome-btn:hover {
+    background: #a2a2a2;
+    color: #fff;
+    border: 1px solid #848484;
+}
