@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.beea5563.js",
+    "static/media/me.jpg": "/static/media/me.f0793b3d49488d317d9b.jpg",
+    "static/media/glenfinnan-viaduct-fort-william-scotland.jpg": "/static/media/glenfinnan-viaduct-fort-william-scotland.fd91198c7365612cdc41.jpg",
+    "static/media/bg.jpg": "/static/media/bg.2f3fc59c6285766bee07.jpg",
+    "static/media/linklyst-banner.png": "/static/media/linklyst-banner.0429967e1ba20a7d1fda.png",
+    "static/media/thejsninja-banner.png": "/static/media/thejsninja-banner.fec7584eb543016928e8.png",
+    "static/media/invitify.png": "/static/media/invitify.083861e58173521088e5.png",
+    "static/media/zulip-banner.png": "/static/media/zulip-banner.2533493ee4f49b62397d.png",
+    "static/media/work6.jpg": "/static/media/work6.57efe212320f7c932065.jpg",
+    "index.html": "/index.html",
+    "main.beea5563.js.map": "/static/js/main.beea5563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.beea5563.js"
+  ]
+}
